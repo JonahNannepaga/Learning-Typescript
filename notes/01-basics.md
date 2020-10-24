@@ -1,6 +1,6 @@
-# Learning TypeScript
+# Basics
 
-## Basics
+## Basic types and getting started with typescript
 
 1. number
 2. boolean
