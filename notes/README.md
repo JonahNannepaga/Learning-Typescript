@@ -1,6 +1,6 @@
-#Learning TypeScript
+# Learning TypeScript
 
-##Types
+## Types
 
 1. number
 2. boolean
